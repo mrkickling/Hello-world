@@ -18,8 +18,8 @@ include "pref.php";
 </tr>
 
 <tr>
-	<td>Hej</td>
-	<td>Hej</td>
+	<td>Import</td>
+	<td>Bra</td>
 	<td>Hej</td>
 </tr>
 
